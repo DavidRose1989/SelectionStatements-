@@ -1,0 +1,5 @@
+C:\Users\David\OneDrive\Desktop\Repos\Selection-Statements-Excercise\Selection-Statements-Exercise\obj\Debug\net7.0\Selection-Statements-Exercise.csproj.AssemblyReference.cache
+C:\Users\David\OneDrive\Desktop\Repos\Selection-Statements-Excercise\Selection-Statements-Exercise\obj\Debug\net7.0\Selection-Statements-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive\Desktop\Repos\Selection-Statements-Excercise\Selection-Statements-Exercise\obj\Debug\net7.0\Selection-Statements-Exercise.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive\Desktop\Repos\Selection-Statements-Excercise\Selection-Statements-Exercise\obj\Debug\net7.0\Selection-Statements-Exercise.AssemblyInfo.cs
+C:\Users\David\OneDrive\Desktop\Repos\Selection-Statements-Excercise\Selection-Statements-Exercise\obj\Debug\net7.0\Selection-Statements-Exercise.csproj.CoreCompileInputs.cache
